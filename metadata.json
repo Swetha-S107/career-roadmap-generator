@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Roadmap Generator",
+  "description": "A personalized career guidance platform that uses AI to generate roadmaps, screening tests, and resume building based on user profiles.",
+  "requestFramePermissions": []
+}

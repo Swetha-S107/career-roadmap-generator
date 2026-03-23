@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of print(type(1/2)) in Python 3?",
+    "options": ["<class 'int'>", "<class 'float'>", "<class 'double'>", "<class 'number'>"],
+    "answer": "<class 'float'>",
+    "skill": "Python"
+  },
+  {
+    "id": 2,
+    "question": "Which of these is used to define a block of code in Python?",
+    "options": ["Brackets", "Indentation", "Parentheses", "Quotation marks"],
+    "answer": "Indentation",
+    "skill": "Python"
+  },
+  {
+    "id": 3,
+    "question": "What is the correct way to create a function in Python?",
+    "options": ["function myFunc():", "def myFunc():", "create myFunc():", "func myFunc():"],
+    "answer": "def myFunc():",
+    "skill": "Python"
+  },
+  {
+    "id": 4,
+    "question": "Which data structure in Python is immutable?",
+    "options": ["List", "Dictionary", "Set", "Tuple"],
+    "answer": "Tuple",
+    "skill": "Python"
+  },
+  {
+    "id": 5,
+    "question": "How do you start a comment in Python?",
+    "options": ["//", "/*", "#", "--"],
+    "answer": "#",
+    "skill": "Python"
+  },
+  {
+    "id": 6,
+    "question": "What is the result of 2 ** 3 in Python?",
+    "options": ["6", "8", "9", "5"],
+    "answer": "8",
+    "skill": "Python"
+  },
+  {
+    "id": 7,
+    "question": "Which method is used to remove whitespace from both ends of a string?",
+    "options": ["strip()", "trim()", "cut()", "len()"],
+    "answer": "strip()",
+    "skill": "Python"
+  },
+  {
+    "id": 8,
+    "question": "How do you create a dictionary in Python?",
+    "options": ["{}", "[]", "()", "<>"],
+    "answer": "{}",
+    "skill": "Python"
+  },
+  {
+    "id": 9,
+    "question": "Which keyword is used for loop control to skip the current iteration?",
+    "options": ["break", "pass", "continue", "exit"],
+    "answer": "continue",
+    "skill": "Python"
+  },
+  {
+    "id": 10,
+    "question": "What is the output of 'hello'[1]?",
+    "options": ["h", "e", "l", "o"],
+    "answer": "e",
+    "skill": "Python"
+  },
+  {
+    "id": 11,
+    "question": "In Java, which keyword is used to create a subclass?",
+    "options": ["implements", "extends", "inherits", "super"],
+    "answer": "extends",
+    "skill": "Java"
+  },
+  {
+    "id": 12,
+    "question": "Which of these is NOT a primitive data type in Java?",
+    "options": ["int", "boolean", "char", "String"],
+    "answer": "String",
+    "skill": "Java"
+  },
+  {
+    "id": 13,
+    "question": "What is the default value of a boolean variable in Java?",
+    "options": ["true", "false", "null", "0"],
+    "answer": "false",
+    "skill": "Java"
+  },
+  {
+    "id": 14,
+    "question": "Which method is the entry point for any Java program?",
+    "options": ["start()", "init()", "main()", "run()"],
+    "answer": "main()",
+    "skill": "Java"
+  },
+  {
+    "id": 15,
+    "question": "Which access modifier makes a member visible only within its own class?",
+    "options": ["public", "protected", "private", "default"],
+    "answer": "private",
+    "skill": "Java"
+  },
+  {
+    "id": 16,
+    "question": "What is the size of an int in Java?",
+    "options": ["16-bit", "32-bit", "64-bit", "8-bit"],
+    "answer": "32-bit",
+    "skill": "Java"
+  },
+  {
+    "id": 17,
+    "question": "Which keyword is used to handle exceptions in Java?",
+    "options": ["try", "catch", "throw", "All of the above"],
+    "answer": "All of the above",
+    "skill": "Java"
+  },
+  {
+    "id": 18,
+    "question": "How do you declare an array in Java?",
+    "options": ["int arr[]", "int[] arr", "Array arr", "Both A and B"],
+    "answer": "Both A and B",
+    "skill": "Java"
+  },
+  {
+    "id": 19,
+    "question": "Which class is the superclass of all classes in Java?",
+    "options": ["Main", "System", "Object", "Class"],
+    "answer": "Object",
+    "skill": "Java"
+  },
+  {
+    "id": 20,
+    "question": "What does 'final' keyword mean when applied to a variable?",
+    "options": ["The variable cannot be changed", "The variable is private", "The variable is static", "The variable is global"],
+    "answer": "The variable cannot be changed",
+    "skill": "Java"
+  },
+  {
+    "id": 21,
+    "question": "What does the 'box-sizing: border-box' property do in CSS?",
+    "options": ["Includes padding and border in the element's total width and height", "Adds a border around the box", "Makes the box invisible", "Resizes the box to fit its content"],
+    "answer": "Includes padding and border in the element's total width and height",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 22,
+    "question": "Which JavaScript method is used to add an element to the end of an array?",
+    "options": ["pop()", "shift()", "push()", "unshift()"],
+    "answer": "push()",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 23,
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": ["<css>", "<script>", "<style>", "<link>"],
+    "answer": "<style>",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 24,
+    "question": "How do you select an element with id 'demo' in CSS?",
+    "options": [".demo", "#demo", "demo", "*demo"],
+    "answer": "#demo",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 25,
+    "question": "Which property is used to change the background color in CSS?",
+    "options": ["color", "bgcolor", "background-color", "fill"],
+    "answer": "background-color",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 26,
+    "question": "What does DOM stand for?",
+    "options": ["Document Object Model", "Data Object Management", "Digital Optical Medium", "Direct Object Method"],
+    "answer": "Document Object Model",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 27,
+    "question": "Which keyword is used to declare a variable in JavaScript that can be reassigned?",
+    "options": ["const", "let", "var", "Both let and var"],
+    "answer": "Both let and var",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 28,
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "options": ["<a>http://google.com</a>", "<a href='http://google.com'>Google</a>", "<a url='http://google.com'>Google</a>", "<link href='http://google.com'>Google</link>"],
+    "answer": "<a href='http://google.com'>Google</a>",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 29,
+    "question": "Which CSS property controls the text size?",
+    "options": ["font-style", "text-size", "font-size", "text-style"],
+    "answer": "font-size",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 30,
+    "question": "In JavaScript, how do you write 'Hello World' in an alert box?",
+    "options": ["msg('Hello World')", "alertBox('Hello World')", "alert('Hello World')", "console.log('Hello World')"],
+    "answer": "alert('Hello World')",
+    "skill": "Full Stack"
+  },
+  {
+    "id": 31,
+    "question": "Who was the first President of Independent India?",
+    "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Sardar Patel", "B.R. Ambedkar"],
+    "answer": "Dr. Rajendra Prasad",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 32,
+    "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "answer": "Article 14",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 33,
+    "question": "The 'Quit India Movement' was launched in which year?",
+    "options": ["1940", "1942", "1945", "1947"],
+    "answer": "1942",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 34,
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 35,
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Subhas Chandra Bose"],
+    "answer": "B.R. Ambedkar",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 36,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 37,
+    "question": "Which river is known as the 'Ganges of the South'?",
+    "options": ["Godavari", "Krishna", "Cauvery", "Narmada"],
+    "answer": "Cauvery",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 38,
+    "question": "The 'Panchayati Raj' system was first introduced in which state?",
+    "options": ["Rajasthan", "Gujarat", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Rajasthan",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 39,
+    "question": "Who wrote the book 'Discovery of India'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Rabindranath Tagore", "Sarojini Naidu"],
+    "answer": "Jawaharlal Nehru",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 40,
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean",
+    "skill": "IAS Preparation"
+  },
+  {
+    "id": 41,
+    "question": "If 5x + 3 = 18, what is the value of x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 42,
+    "question": "What is 15% of 200?",
+    "options": ["20", "25", "30", "35"],
+    "answer": "30",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 43,
+    "question": "Find the odd one out: 2, 4, 8, 10, 16, 32",
+    "options": ["4", "10", "16", "32"],
+    "answer": "10",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 44,
+    "question": "A train 100m long passes a bridge in 10s. If the speed is 72km/h, what is the length of the bridge?",
+    "options": ["100m", "150m", "200m", "250m"],
+    "answer": "100m",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a synonym for 'Abundant'?",
+    "options": ["Scarce", "Plentiful", "Rare", "Limited"],
+    "answer": "Plentiful",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 46,
+    "question": "What is the average of first five prime numbers?",
+    "options": ["5.2", "5.4", "5.6", "5.8"],
+    "answer": "5.6",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 47,
+    "question": "If 'APPLE' is coded as 'EPPLA', how is 'BANANA' coded?",
+    "options": ["ANANAB", "AANANB", "ANANBA", "NAANAB"],
+    "answer": "ANANAB",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 48,
+    "question": "The ratio of ages of A and B is 3:4. If the sum of their ages is 28, what is B's age?",
+    "options": ["12", "14", "16", "18"],
+    "answer": "16",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 49,
+    "question": "Which bank is known as the 'Banker's Bank' in India?",
+    "options": ["SBI", "ICICI", "HDFC", "RBI"],
+    "answer": "RBI",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 50,
+    "question": "What is the square root of 625?",
+    "options": ["15", "25", "35", "45"],
+    "answer": "25",
+    "skill": "Banking Preparation"
+  },
+  {
+    "id": 51,
+    "question": "What does SEO stand for?",
+    "options": ["Search Engine Optimization", "Social Engine Operation", "Search Electronic Output", "Social Email Optimization"],
+    "answer": "Search Engine Optimization",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 52,
+    "question": "Which platform is primarily used for B2B professional networking?",
+    "options": ["Instagram", "TikTok", "LinkedIn", "Snapchat"],
+    "answer": "LinkedIn",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 53,
+    "question": "What is the primary goal of Content Marketing?",
+    "options": ["Direct Sales", "Building Trust & Authority", "Spamming", "Increasing Server Load"],
+    "answer": "Building Trust & Authority",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 54,
+    "question": "What is a 'Call to Action' (CTA)?",
+    "options": ["A phone call", "A prompt for user response", "A legal action", "A marketing slogan"],
+    "answer": "A prompt for user response",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 55,
+    "question": "Which of these is a 'Short-form' video platform?",
+    "options": ["YouTube (Main)", "Netflix", "TikTok", "Hulu"],
+    "answer": "TikTok",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 56,
+    "question": "What is 'Email Marketing'?",
+    "options": ["Sending spam", "Sending targeted messages to a list of subscribers", "Hacking emails", "Deleting emails"],
+    "answer": "Sending targeted messages to a list of subscribers",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 57,
+    "question": "Which metric measures the percentage of users who clicked on a link?",
+    "options": ["Bounce Rate", "Conversion Rate", "Click-Through Rate (CTR)", "Impressions"],
+    "answer": "Click-Through Rate (CTR)",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 58,
+    "question": "What is 'Influencer Marketing'?",
+    "options": ["Marketing to influencers", "Using popular individuals to promote products", "Becoming an influencer", "Ignoring influencers"],
+    "answer": "Using popular individuals to promote products",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 59,
+    "question": "Which tool is commonly used for website analytics?",
+    "options": ["Google Analytics", "Photoshop", "Excel", "Word"],
+    "answer": "Google Analytics",
+    "skill": "Digital Marketing"
+  },
+  {
+    "id": 60,
+    "question": "What is the primary purpose of a 'Landing Page'?",
+    "options": ["To show the home page", "To convert visitors into leads or customers", "To show the company history", "To list all products"],
+    "answer": "To convert visitors into leads or customers",
+    "skill": "Digital Marketing"
+  }
+]

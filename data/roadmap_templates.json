@@ -1,0 +1,14 @@
+{
+  "1_week": {
+    "title": "Intensive 1-Week Sprint",
+    "structure": "Daily focus on core concepts and practical application."
+  },
+  "1_month": {
+    "title": "Comprehensive 1-Month Plan",
+    "structure": "Weekly milestones with deep dives into specific modules."
+  },
+  "3_months": {
+    "title": "Mastery 3-Month Roadmap",
+    "structure": "Long-term skill building, project work, and portfolio development."
+  }
+}

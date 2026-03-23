@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1774236190629,
+    "name": "abinaya",
+    "email": "Swethasuji85@gmail.com",
+    "password": "107suji",
+    "profile": {
+      "type": "college",
+      "name": "abinaya",
+      "year": "1",
+      "department": "computer science",
+      "phone": "098765432",
+      "linkedin": "https://linkedin.com/abi",
+      "github": "https://github.com/abi",
+      "experience": "1",
+      "domain": "Banking",
+      "primarySkill": "Banking Preparation",
+      "skills": "business",
+      "interests": "business"
+    },
+    "testScore": 4,
+    "roadmap": {
+      "title": "Banking Career Roadmap",
+      "summary": "This roadmap is designed for a Advanced level student aiming to become a Banking professional.",
+      "weeks": [
+        {
+          "week": 1,
+          "focus": "Advanced level learning - Week 1",
+          "topics": [
+            "Learn basics of Banking Preparation",
+            "Practice Banking Preparation concepts",
+            "Work on small tasks in Banking",
+            "Improve problem solving skills",
+            "Build mini project related to Banking"
+          ]
+        },
+        {
+          "week": 2,
+          "focus": "Advanced level learning - Week 2",
+          "topics": [
+            "Learn basics of Banking Preparation",
+            "Practice Banking Preparation concepts",
+            "Work on small tasks in Banking",
+            "Improve problem solving skills",
+            "Build mini project related to Banking"
+          ]
+        },
+        {
+          "week": 3,
+          "focus": "Advanced level learning - Week 3",
+          "topics": [
+            "Learn basics of Banking Preparation",
+            "Practice Banking Preparation concepts",
+            "Work on small tasks in Banking",
+            "Improve problem solving skills",
+            "Build mini project related to Banking"
+          ]
+        },
+        {
+          "week": 4,
+          "focus": "Advanced level learning - Week 4",
+          "topics": [
+            "Learn basics of Banking Preparation",
+            "Practice Banking Preparation concepts",
+            "Work on small tasks in Banking",
+            "Improve problem solving skills",
+            "Build mini project related to Banking"
+          ]
+        }
+      ]
+    },
+    "resume": {
+      "summary": "abinaya is an aspiring Banking professional with strong interest in Banking Preparation. Passionate about learning and building real-world projects.",
+      "skills": [
+        {
+          "category": "Technical Skills",
+          "items": [
+            "Banking Preparation",
+            "Problem Solving",
+            "Basics of Programming"
+          ]
+        },
+        {
+          "category": "Tools",
+          "items": [
+            "VS Code",
+            "Git",
+            "GitHub"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "title": "Fresher",
+          "organization": "Self Learning",
+          "duration": "Present",
+          "responsibilities": [
+            "Practicing and building projects",
+            "Learning new technologies regularly"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Career Roadmap Generator",
+          "techStack": "React, Node.js",
+          "description": [
+            "Built a personalized roadmap generator",
+            "Designed dynamic UI for user interaction"
+          ]
+        },
+        {
+          "title": "Portfolio Website",
+          "techStack": "HTML, CSS, JavaScript",
+          "description": [
+            "Created personal portfolio website",
+            "Showcased projects and skills"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "college",
+          "institution": "computer science",
+          "duration": "1",
+          "details": "Pursuing education with focus on career growth"
+        }
+      ],
+      "achievements": [
+        "Completed multiple mini projects",
+        "Actively learning new technologies"
+      ]
+    },
+    "courseProgress": {}
+  }
+]
