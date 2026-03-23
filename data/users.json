@@ -132,5 +132,428 @@
       ]
     },
     "courseProgress": {}
+  },
+  {
+    "id": 1774238143619,
+    "name": "megha ",
+    "email": "megha@mail.com",
+    "password": "0523",
+    "profile": {
+      "type": "college",
+      "name": "megha",
+      "year": "1",
+      "department": "computer science",
+      "github": "https://github.com/abi",
+      "linkedin": "https://linkedin.com/abi",
+      "experience": "1",
+      "phone": "098765",
+      "domain": "Software/Engineering",
+      "primarySkill": "Python",
+      "skills": "python",
+      "interests": "coding"
+    },
+    "testScore": 3,
+    "roadmap": {
+      "title": "Software/Engineering Career Roadmap",
+      "summary": "This roadmap is designed for a Beginner level student aiming to become a Software/Engineering professional.",
+      "weeks": [
+        {
+          "week": 1,
+          "focus": "Beginner level learning - Week 1",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 2,
+          "focus": "Beginner level learning - Week 2",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 3,
+          "focus": "Beginner level learning - Week 3",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 4,
+          "focus": "Beginner level learning - Week 4",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 5,
+          "focus": "Beginner level learning - Week 5",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 6,
+          "focus": "Beginner level learning - Week 6",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 7,
+          "focus": "Beginner level learning - Week 7",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 8,
+          "focus": "Beginner level learning - Week 8",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 9,
+          "focus": "Beginner level learning - Week 9",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 10,
+          "focus": "Beginner level learning - Week 10",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 11,
+          "focus": "Beginner level learning - Week 11",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        },
+        {
+          "week": 12,
+          "focus": "Beginner level learning - Week 12",
+          "topics": [
+            "Learn basics of Python",
+            "Practice Python concepts",
+            "Work on small tasks in Software/Engineering",
+            "Improve problem solving skills",
+            "Build mini project related to Software/Engineering"
+          ]
+        }
+      ]
+    },
+    "resume": {
+      "summary": "megha is an aspiring Software/Engineering professional with strong interest in Python. Passionate about learning and building real-world projects.",
+      "skills": [
+        {
+          "category": "Technical Skills",
+          "items": [
+            "Python",
+            "Problem Solving",
+            "Basics of Programming"
+          ]
+        },
+        {
+          "category": "Tools",
+          "items": [
+            "VS Code",
+            "Git",
+            "GitHub"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "title": "Fresher",
+          "organization": "Self Learning",
+          "duration": "Present",
+          "responsibilities": [
+            "Practicing and building projects",
+            "Learning new technologies regularly"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Career Roadmap Generator",
+          "techStack": "React, Node.js",
+          "description": [
+            "Built a personalized roadmap generator",
+            "Designed dynamic UI for user interaction"
+          ]
+        },
+        {
+          "title": "Portfolio Website",
+          "techStack": "HTML, CSS, JavaScript",
+          "description": [
+            "Created personal portfolio website",
+            "Showcased projects and skills"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "college",
+          "institution": "computer science",
+          "duration": "1",
+          "details": "Pursuing education with focus on career growth"
+        }
+      ],
+      "achievements": [
+        "Completed multiple mini projects",
+        "Actively learning new technologies"
+      ]
+    },
+    "courseProgress": {}
+  },
+  {
+    "id": 1774239202600,
+    "name": "kavi",
+    "email": "kavi@gmail.com",
+    "password": "09876",
+    "profile": {
+      "type": "college",
+      "name": "kaviya sri ",
+      "year": "2",
+      "department": "computer science",
+      "phone": "098765",
+      "github": "https://github.com/abi",
+      "linkedin": "https://linkedin.com/abi",
+      "experience": "0",
+      "domain": "Software/Engineering",
+      "primarySkill": "Python",
+      "skills": "java",
+      "interests": "java"
+    },
+    "testScore": 3,
+    "roadmap": {
+      "title": "Software/Engineering Career Roadmap",
+      "summary": "This roadmap is designed for a Beginner level student aiming to become a Software/Engineering professional.",
+      "weeks": [
+        {
+          "week": 1,
+          "focus": "Beginner Level - Week 1 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 1"
+          ]
+        },
+        {
+          "week": 2,
+          "focus": "Beginner Level - Week 2 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 2"
+          ]
+        },
+        {
+          "week": 3,
+          "focus": "Beginner Level - Week 3 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 3"
+          ]
+        },
+        {
+          "week": 4,
+          "focus": "Beginner Level - Week 4 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 4"
+          ]
+        },
+        {
+          "week": 5,
+          "focus": "Beginner Level - Week 5 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 5"
+          ]
+        },
+        {
+          "week": 6,
+          "focus": "Beginner Level - Week 6 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 6"
+          ]
+        },
+        {
+          "week": 7,
+          "focus": "Beginner Level - Week 7 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 7"
+          ]
+        },
+        {
+          "week": 8,
+          "focus": "Beginner Level - Week 8 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 8"
+          ]
+        },
+        {
+          "week": 9,
+          "focus": "Beginner Level - Week 9 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 9"
+          ]
+        },
+        {
+          "week": 10,
+          "focus": "Beginner Level - Week 10 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 10"
+          ]
+        },
+        {
+          "week": 11,
+          "focus": "Beginner Level - Week 11 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 11"
+          ]
+        },
+        {
+          "week": 12,
+          "focus": "Beginner Level - Week 12 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 12"
+          ]
+        }
+      ]
+    },
+    "resume": null,
+    "courseProgress": {}
+  },
+  {
+    "id": 1774239860801,
+    "name": "aaa",
+    "email": "aaa@gmail.com",
+    "password": "1234",
+    "profile": {
+      "type": "college",
+      "name": "aaa",
+      "year": "1",
+      "department": "computer science",
+      "phone": "098765",
+      "github": "https://github.com/abi",
+      "linkedin": "https://linkedin.com/abi",
+      "experience": "0",
+      "domain": "Software/Engineering",
+      "primarySkill": "Python",
+      "skills": "java",
+      "interests": "java"
+    },
+    "testScore": 2,
+    "roadmap": {
+      "title": "Software/Engineering Career Roadmap",
+      "summary": "This roadmap is designed for a Beginner level student aiming to become a Software/Engineering professional.",
+      "weeks": [
+        {
+          "week": 1,
+          "focus": "Beginner Level - Week 1 Focus",
+          "topics": [
+            "Understand fundamentals of Python",
+            "Practice real-world problems in Python",
+            "Work on Software/Engineering related mini tasks",
+            "Improve logical and analytical thinking",
+            "Build a mini project for Week 1"
+          ]
+        }
+      ]
+    },
+    "resume": null,
+    "courseProgress": {}
   }
 ]
